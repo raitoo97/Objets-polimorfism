@@ -1,0 +1,3 @@
+﻿  OBJETOS Y POLIMORFISMO.cpp
+OBJETOS Y POLIMORFISMO.obj : error LNK2001: símbolo externo "public: virtual void __cdecl Gnomo::recibirdano(int)" (?recibirdano@Gnomo@@UEAAXH@Z) sin resolver
+D:\PROYECTOS UTN\OBJETOS Y POLIMORFISMO\x64\Debug\OBJETOS Y POLIMORFISMO.exe : fatal error LNK1120: 1 externos sin resolver
